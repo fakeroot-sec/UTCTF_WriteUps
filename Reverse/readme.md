@@ -1,9 +1,8 @@
+<h1 href="https://github.com/ABDOUNEsalim" align="center"> S4L1M | #F4K3-RooT </h1>
 
-<p align="center">
-  <a href="https://github.com/ABDOUNEsalim">
-    <h1> S4L1M | #F4K3-RooT </h1>  
-  </a>
-</p>
+  
+    
+
 <!-- 
 <h3 align="center">CS student and a passionate web developer</h3> -->
 
