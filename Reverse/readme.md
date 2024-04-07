@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/ABDOUNEsalim">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%ADFF2F&center=true&vCenter=true&width=1200&lines=S4L1M+#F4K3-RooT;Reverse+Engineering" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%ADFF2F&center=true&vCenter=true&width=1200&lines=S4L1M+F4K3-RooT;Reverse+Engineering" alt="Typing SVG">
   </a>
 </p>
